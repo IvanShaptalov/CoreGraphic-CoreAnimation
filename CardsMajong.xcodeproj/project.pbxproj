@@ -24,6 +24,7 @@
 		21E8056B2AE6B7C600E0C446 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21E8056E2AE6B7C600E0C446 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21E805702AE6B7C600E0C446 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21E8057A2AE6B8C800E0C446 /* ViewExperiments.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ViewExperiments.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				21E8056B2AE6B7C600E0C446 /* Assets.xcassets */,
 				21E8056D2AE6B7C600E0C446 /* LaunchScreen.storyboard */,
 				21E805702AE6B7C600E0C446 /* Info.plist */,
+				21E8057A2AE6B8C800E0C446 /* ViewExperiments.playground */,
 			);
 			path = CardsMajong;
 			sourceTree = "<group>";
